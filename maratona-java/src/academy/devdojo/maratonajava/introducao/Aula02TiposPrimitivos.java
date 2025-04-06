@@ -19,5 +19,6 @@ public class Aula02TiposPrimitivos {
         System.out.println(salarioDouble);
         System.out.println(caractere);
         System.out.println(nome);
+        System.out.println(idadeShort);
     }
 }
